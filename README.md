@@ -18,6 +18,7 @@ OUTCOMES
 (1) DATA MODELLING
 Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, feel free to use a tool like QuickDBD
 
+
 (2) DATA ENGINERING
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
@@ -26,7 +27,6 @@ For the primary keys, verify that the column is unique. Otherwise, create a comp
 Be sure to create the tables in the correct order to handle the foreign keys.
 Import each CSV file into its corresponding SQL table.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (3) DATA ANALYSIS
 
@@ -48,3 +48,5 @@ Import each CSV file into its corresponding SQL table.
  - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+STUDENT OUTCOMES
