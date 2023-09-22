@@ -49,4 +49,7 @@ Import each CSV file into its corresponding SQL table.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-STUDENT OUTCOMES
+ERD TABLE
+
+
+![Challenge 9 ERD Diagram](https://github.com/RyanLJames1997/SQL_CHALLENGE/assets/141802851/e6aec70c-0cde-4907-9317-c9ae0e703aa1)
